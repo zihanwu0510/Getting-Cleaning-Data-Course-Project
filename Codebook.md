@@ -1,4 +1,4 @@
-# ** Codebook **
+# Codebook
 
 ## Introduction
 The original dataset has been processed based on the following five steps:

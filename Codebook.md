@@ -19,6 +19,6 @@ The original dataset has been processed based on the following five steps:
 * The redundant **BodyBody** in column names has been replaced by "Body".
 * **t**, **f**, **mean**, **std** has been replaced by "Time", "Frequency", "Mean", and "StandardDeviation".
 
-** TIDY_DATA
-The final tidy data set has 10299 rows and 88 columns.
-The final average data set (which shows the average of each variable for each activity and each subject) has 180 rows and 88 columns.
+## TIDY_DATA
+* The final tidy data set has 10299 rows and 88 columns.
+* The final average data set (which shows the average of each variable for each activity and each subject) has 180 rows and 88 columns.
